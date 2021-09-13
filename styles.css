@@ -1,0 +1,51 @@
+main {
+  font: 16px Arial;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+section {
+  border: 2px solid #F1F2EE;
+  margin: 5px;
+}
+
+.windsong {
+  font-family: 'WindSong', cursive;
+}
+
+.raleway-regular {
+  font-family: 'Raleway', sans-serif;
+  font-style: normal;
+}
+
+.raleway-bold {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.color {
+  text-align: center;
+  padding: 15px 0;
+}
+
+.apricot {
+  background-color: #FFCDB2;
+}
+
+.melon {
+  background-color: #FFB4A2;
+}
+
+.pastelpink {
+  background-color: #E5989B;
+}
+
+.englishlavender {
+  background-color: #B5838D;
+}
+
+.oldlavender {
+  background-color: #6D6875;
+}
